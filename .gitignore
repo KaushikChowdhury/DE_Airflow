@@ -1,5 +1,4 @@
 *.csv
-*.ipynb
 *.txt
 pipeline.py
 ny_taxi_postgres_data/*
